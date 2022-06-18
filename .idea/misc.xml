@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/anonym/AndroidStudioProjects/MyApplication21/app/src/main/res/drawable-anydpi/ic_edit_images.xml" value="0.2245" />
+        <entry key="..\:/Users/anonym/AndroidStudioProjects/MyApplication21/app/src/main/res/drawable-anydpi/ic_yey.xml" value="0.2595" />
+        <entry key="..\:/Users/anonym/AndroidStudioProjects/MyApplication21/app/src/main/res/drawable/ads_main_bg.xml" value="0.2245" />
+        <entry key="..\:/Users/anonym/AndroidStudioProjects/MyApplication21/app/src/main/res/drawable/edit_panel_bg.xml" value="0.2245" />
+        <entry key="..\:/Users/anonym/AndroidStudioProjects/MyApplication21/app/src/main/res/drawable/ic_baseline_delete_forever_24.xml" value="0.2245" />
+        <entry key="..\:/Users/anonym/AndroidStudioProjects/MyApplication21/app/src/main/res/drawable/ic_edit_images.xml" value="0.2245" />
+        <entry key="..\:/Users/anonym/AndroidStudioProjects/MyApplication21/app/src/main/res/drawable/ic_eye.xml" value="0.2245" />
+        <entry key="..\:/Users/anonym/AndroidStudioProjects/MyApplication21/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2215" />
+        <entry key="..\:/Users/anonym/AndroidStudioProjects/MyApplication21/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2215" />
+        <entry key="..\:/Users/anonym/AndroidStudioProjects/MyApplication21/app/src/main/res/drawable/image_def_bg.xml" value="0.2245" />
+        <entry key="..\:/Users/anonym/AndroidStudioProjects/MyApplication21/app/src/main/res/drawable/sign_up_dialog_bg.xml" value="0.2245" />
+        <entry key="..\:/Users/anonym/AndroidStudioProjects/MyApplication21/app/src/main/res/layout/activity_choose_image.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/anonym/AndroidStudioProjects/MyApplication21/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/anonym/AndroidStudioProjects/MyApplication21/app/src/main/res/layout/edit_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/anonym/AndroidStudioProjects/MyApplication21/app/src/main/res/layout/item_ads.xml" value="0.25" />
+        <entry key="..\:/Users/anonym/AndroidStudioProjects/MyApplication21/app/src/main/res/layout/main_content.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/anonym/AndroidStudioProjects/MyApplication21/app/src/main/res/layout/nav_header_main.xml" value="0.264" />
+        <entry key="..\:/Users/anonym/AndroidStudioProjects/MyApplication21/app/src/main/res/layout/pager_item.xml" value="0.23324275362318841" />
+        <entry key="..\:/Users/anonym/AndroidStudioProjects/MyApplication21/app/src/main/res/layout/show_layout_activity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/anonym/AndroidStudioProjects/MyApplication21/app/src/main/res/layout/sign_up_layout.xml" value="0.536" />
+        <entry key="..\:/Users/anonym/AndroidStudioProjects/MyApplication21/app/src/main/res/menu/drawer_main_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/anonym/AndroidStudioProjects/MyApplication21/app/src/main/res/menu/main_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/anonym/AndroidStudioProjects/MyApplication21/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2215" />
+        <entry key="..\:/Users/anonym/AndroidStudioProjects/MyApplication21/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.102" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

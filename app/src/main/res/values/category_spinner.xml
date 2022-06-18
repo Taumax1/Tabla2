@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="category_spinner">
+
+        <item>Транспорт</item>
+        <item>Компьютеры</item>
+        <item>Смартфоны</item>
+        <item>Недвижимость</item>
+        <item>Бытовая техника</item>
+        <item>Готовый бизнес</item>
+        <item>Услуги</item>
+
+
+    </string-array>
+
+</resources>

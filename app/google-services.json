@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "773082306123",
+    "firebase_url": "https://tablamlg-default-rtdb.firebaseio.com",
+    "project_id": "tablamlg",
+    "storage_bucket": "tablamlg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773082306123:android:051d2c65eca2ff7561dfce",
+        "android_client_info": {
+          "package_name": "com.klimovmax.myapplication21"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773082306123-3nolq0nbhkk8vfq9r7asja8mc10g2vud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.klimovmax.myapplication21",
+            "certificate_hash": "04e108e38c1c49886fa08124d5f53927d249b2a2"
+          }
+        },
+        {
+          "client_id": "773082306123-om7p1j204vfj1cgtnp2m98s3qhv1s0hl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv74pLQarxh6vVKwANwWxDRqkJV9c6Q_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773082306123-om7p1j204vfj1cgtnp2m98s3qhv1s0hl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
